@@ -1,0 +1,225 @@
+... loading data
+... building the model
+... training the model
+Epoch: 1, minibatch: 83/83, validation_error: 13.020833 %
+Epoch : 1, minibatch 82/83, test error of best model 13.052083 %
+New best model found; saving ...
+Epoch: 2, minibatch: 83/83, validation_error: 11.572917 %
+Epoch : 2, minibatch 82/83, test error of best model 11.520833 %
+New best model found; saving ...
+Epoch: 3, minibatch: 83/83, validation_error: 10.697917 %
+Epoch : 3, minibatch 82/83, test error of best model 10.635417 %
+New best model found; saving ...
+Epoch: 4, minibatch: 83/83, validation_error: 10.239583 %
+Epoch : 4, minibatch 82/83, test error of best model 10.229167 %
+New best model found; saving ...
+Epoch: 5, minibatch: 83/83, validation_error: 9.895833 %
+Epoch : 5, minibatch 82/83, test error of best model 9.906250 %
+New best model found; saving ...
+Epoch: 6, minibatch: 83/83, validation_error: 9.572917 %
+Epoch : 6, minibatch 82/83, test error of best model 9.635417 %
+New best model found; saving ...
+Epoch: 7, minibatch: 83/83, validation_error: 9.416667 %
+Epoch : 7, minibatch 82/83, test error of best model 9.364583 %
+New best model found; saving ...
+Epoch: 8, minibatch: 83/83, validation_error: 9.281250 %
+Epoch : 8, minibatch 82/83, test error of best model 9.208333 %
+New best model found; saving ...
+Epoch: 9, minibatch: 83/83, validation_error: 9.197917 %
+Epoch : 9, minibatch 82/83, test error of best model 9.020833 %
+New best model found; saving ...
+Epoch: 10, minibatch: 83/83, validation_error: 9.052083 %
+Epoch : 10, minibatch 82/83, test error of best model 8.979167 %
+New best model found; saving ...
+Epoch: 11, minibatch: 83/83, validation_error: 8.937500 %
+Epoch : 11, minibatch 82/83, test error of best model 8.854167 %
+New best model found; saving ...
+Epoch: 12, minibatch: 83/83, validation_error: 8.854167 %
+Epoch : 12, minibatch 82/83, test error of best model 8.802083 %
+New best model found; saving ...
+Epoch: 13, minibatch: 83/83, validation_error: 8.770833 %
+Epoch : 13, minibatch 82/83, test error of best model 8.656250 %
+New best model found; saving ...
+Epoch: 14, minibatch: 83/83, validation_error: 8.666667 %
+Epoch : 14, minibatch 82/83, test error of best model 8.520833 %
+New best model found; saving ...
+Epoch: 15, minibatch: 83/83, validation_error: 8.625000 %
+Epoch : 15, minibatch 82/83, test error of best model 8.447917 %
+New best model found; saving ...
+Epoch: 16, minibatch: 83/83, validation_error: 8.552083 %
+Epoch : 16, minibatch 82/83, test error of best model 8.395833 %
+New best model found; saving ...
+Epoch: 17, minibatch: 83/83, validation_error: 8.520833 %
+Epoch : 17, minibatch 82/83, test error of best model 8.333333 %
+New best model found; saving ...
+Epoch: 18, minibatch: 83/83, validation_error: 8.458333 %
+Epoch : 18, minibatch 82/83, test error of best model 8.322917 %
+New best model found; saving ...
+Epoch: 19, minibatch: 83/83, validation_error: 8.416667 %
+Epoch : 19, minibatch 82/83, test error of best model 8.291667 %
+New best model found; saving ...
+Epoch: 20, minibatch: 83/83, validation_error: 8.354167 %
+Epoch : 20, minibatch 82/83, test error of best model 8.260417 %
+New best model found; saving ...
+Epoch: 21, minibatch: 83/83, validation_error: 8.312500 %
+Epoch : 21, minibatch 82/83, test error of best model 8.218750 %
+New best model found; saving ...
+Epoch: 22, minibatch: 83/83, validation_error: 8.270833 %
+Epoch : 22, minibatch 82/83, test error of best model 8.125000 %
+New best model found; saving ...
+Epoch: 23, minibatch: 83/83, validation_error: 8.260417 %
+Epoch : 23, minibatch 82/83, test error of best model 8.072917 %
+New best model found; saving ...
+Epoch: 24, minibatch: 83/83, validation_error: 8.239583 %
+Epoch : 24, minibatch 82/83, test error of best model 8.041667 %
+New best model found; saving ...
+Epoch: 25, minibatch: 83/83, validation_error: 8.218750 %
+Epoch : 25, minibatch 82/83, test error of best model 8.000000 %
+New best model found; saving ...
+Epoch: 26, minibatch: 83/83, validation_error: 8.218750 %
+Epoch: 27, minibatch: 83/83, validation_error: 8.229167 %
+Epoch: 28, minibatch: 83/83, validation_error: 8.197917 %
+Epoch : 28, minibatch 82/83, test error of best model 7.958333 %
+New best model found; saving ...
+Epoch: 29, minibatch: 83/83, validation_error: 8.166667 %
+Epoch : 29, minibatch 82/83, test error of best model 7.916667 %
+New best model found; saving ...
+Epoch: 30, minibatch: 83/83, validation_error: 8.156250 %
+Epoch : 30, minibatch 82/83, test error of best model 7.947917 %
+New best model found; saving ...
+Epoch: 31, minibatch: 83/83, validation_error: 8.135417 %
+Epoch : 31, minibatch 82/83, test error of best model 7.937500 %
+New best model found; saving ...
+Epoch: 32, minibatch: 83/83, validation_error: 8.114583 %
+Epoch : 32, minibatch 82/83, test error of best model 7.947917 %
+New best model found; saving ...
+Epoch: 33, minibatch: 83/83, validation_error: 8.104167 %
+Epoch : 33, minibatch 82/83, test error of best model 7.927083 %
+New best model found; saving ...
+Epoch: 34, minibatch: 83/83, validation_error: 8.104167 %
+Epoch: 35, minibatch: 83/83, validation_error: 8.083333 %
+Epoch : 35, minibatch 82/83, test error of best model 7.885417 %
+New best model found; saving ...
+Epoch: 36, minibatch: 83/83, validation_error: 8.052083 %
+Epoch : 36, minibatch 82/83, test error of best model 7.854167 %
+New best model found; saving ...
+Epoch: 37, minibatch: 83/83, validation_error: 8.062500 %
+Epoch: 38, minibatch: 83/83, validation_error: 8.062500 %
+Epoch: 39, minibatch: 83/83, validation_error: 8.062500 %
+Epoch: 40, minibatch: 83/83, validation_error: 8.020833 %
+Epoch : 40, minibatch 82/83, test error of best model 7.812500 %
+New best model found; saving ...
+Epoch: 41, minibatch: 83/83, validation_error: 8.000000 %
+Epoch : 41, minibatch 82/83, test error of best model 7.833333 %
+New best model found; saving ...
+Epoch: 42, minibatch: 83/83, validation_error: 7.968750 %
+Epoch : 42, minibatch 82/83, test error of best model 7.791667 %
+New best model found; saving ...
+Epoch: 43, minibatch: 83/83, validation_error: 7.927083 %
+Epoch : 43, minibatch 82/83, test error of best model 7.760417 %
+New best model found; saving ...
+Epoch: 44, minibatch: 83/83, validation_error: 7.937500 %
+Epoch: 45, minibatch: 83/83, validation_error: 7.916667 %
+Epoch : 45, minibatch 82/83, test error of best model 7.718750 %
+New best model found; saving ...
+Epoch: 46, minibatch: 83/83, validation_error: 7.906250 %
+Epoch : 46, minibatch 82/83, test error of best model 7.750000 %
+New best model found; saving ...
+Epoch: 47, minibatch: 83/83, validation_error: 7.875000 %
+Epoch : 47, minibatch 82/83, test error of best model 7.739583 %
+New best model found; saving ...
+Epoch: 48, minibatch: 83/83, validation_error: 7.854167 %
+Epoch : 48, minibatch 82/83, test error of best model 7.677083 %
+New best model found; saving ...
+Epoch: 49, minibatch: 83/83, validation_error: 7.843750 %
+Epoch : 49, minibatch 82/83, test error of best model 7.656250 %
+New best model found; saving ...
+Epoch: 50, minibatch: 83/83, validation_error: 7.843750 %
+Epoch : 50, minibatch 82/83, test error of best model 7.635417 %
+New best model found; saving ...
+Epoch: 51, minibatch: 83/83, validation_error: 7.822917 %
+Epoch : 51, minibatch 82/83, test error of best model 7.625000 %
+New best model found; saving ...
+Epoch: 52, minibatch: 83/83, validation_error: 7.802083 %
+Epoch : 52, minibatch 82/83, test error of best model 7.625000 %
+New best model found; saving ...
+Epoch: 53, minibatch: 83/83, validation_error: 7.781250 %
+Epoch : 53, minibatch 82/83, test error of best model 7.614583 %
+New best model found; saving ...
+Epoch: 54, minibatch: 83/83, validation_error: 7.770833 %
+Epoch : 54, minibatch 82/83, test error of best model 7.614583 %
+New best model found; saving ...
+Epoch: 55, minibatch: 83/83, validation_error: 7.760417 %
+Epoch : 55, minibatch 82/83, test error of best model 7.614583 %
+New best model found; saving ...
+Epoch: 56, minibatch: 83/83, validation_error: 7.750000 %
+Epoch : 56, minibatch 82/83, test error of best model 7.614583 %
+New best model found; saving ...
+Epoch: 57, minibatch: 83/83, validation_error: 7.760417 %
+Epoch: 58, minibatch: 83/83, validation_error: 7.750000 %
+Epoch: 59, minibatch: 83/83, validation_error: 7.739583 %
+Epoch : 59, minibatch 82/83, test error of best model 7.625000 %
+New best model found; saving ...
+Epoch: 60, minibatch: 83/83, validation_error: 7.718750 %
+Epoch : 60, minibatch 82/83, test error of best model 7.604167 %
+New best model found; saving ...
+Epoch: 61, minibatch: 83/83, validation_error: 7.708333 %
+Epoch : 61, minibatch 82/83, test error of best model 7.604167 %
+New best model found; saving ...
+Epoch: 62, minibatch: 83/83, validation_error: 7.697917 %
+Epoch : 62, minibatch 82/83, test error of best model 7.593750 %
+New best model found; saving ...
+Epoch: 63, minibatch: 83/83, validation_error: 7.687500 %
+Epoch : 63, minibatch 82/83, test error of best model 7.593750 %
+New best model found; saving ...
+Epoch: 64, minibatch: 83/83, validation_error: 7.677083 %
+Epoch : 64, minibatch 82/83, test error of best model 7.593750 %
+New best model found; saving ...
+Epoch: 65, minibatch: 83/83, validation_error: 7.666667 %
+Epoch : 65, minibatch 82/83, test error of best model 7.593750 %
+New best model found; saving ...
+Epoch: 66, minibatch: 83/83, validation_error: 7.687500 %
+Epoch: 67, minibatch: 83/83, validation_error: 7.677083 %
+Epoch: 68, minibatch: 83/83, validation_error: 7.656250 %
+Epoch : 68, minibatch 82/83, test error of best model 7.541667 %
+New best model found; saving ...
+Epoch: 69, minibatch: 83/83, validation_error: 7.645833 %
+Epoch : 69, minibatch 82/83, test error of best model 7.531250 %
+New best model found; saving ...
+Epoch: 70, minibatch: 83/83, validation_error: 7.635417 %
+Epoch : 70, minibatch 82/83, test error of best model 7.520833 %
+New best model found; saving ...
+Epoch: 71, minibatch: 83/83, validation_error: 7.614583 %
+Epoch : 71, minibatch 82/83, test error of best model 7.520833 %
+New best model found; saving ...
+Epoch: 72, minibatch: 83/83, validation_error: 7.604167 %
+Epoch : 72, minibatch 82/83, test error of best model 7.500000 %
+New best model found; saving ...
+Epoch: 73, minibatch: 83/83, validation_error: 7.604167 %
+Epoch: 74, minibatch: 83/83, validation_error: 7.604167 %
+Epoch: 75, minibatch: 83/83, validation_error: 7.604167 %
+Epoch: 76, minibatch: 83/83, validation_error: 7.604167 %
+Epoch: 77, minibatch: 83/83, validation_error: 7.593750 %
+Epoch : 77, minibatch 82/83, test error of best model 7.479167 %
+New best model found; saving ...
+Epoch: 78, minibatch: 83/83, validation_error: 7.583333 %
+Epoch : 78, minibatch 82/83, test error of best model 7.479167 %
+New best model found; saving ...
+Epoch: 79, minibatch: 83/83, validation_error: 7.562500 %
+Epoch : 79, minibatch 82/83, test error of best model 7.489583 %
+New best model found; saving ...
+Epoch: 80, minibatch: 83/83, validation_error: 7.562500 %
+Epoch: 81, minibatch: 83/83, validation_error: 7.552083 %
+Epoch : 81, minibatch 82/83, test error of best model 7.510417 %
+New best model found; saving ...
+Epoch: 82, minibatch: 83/83, validation_error: 7.552083 %
+Epoch: 83, minibatch: 83/83, validation_error: 7.541667 %
+Epoch : 83, minibatch 82/83, test error of best model 7.500000 %
+New best model found; saving ...
+Epoch: 84, minibatch: 83/83, validation_error: 7.531250 %
+Epoch : 84, minibatch 82/83, test error of best model 7.489583 %
+New best model found; saving ...
+Epoch: 85, minibatch: 83/83, validation_error: 7.541667 %
+Optimization Complete: best validation score : 7.531250 %, test performance : 7.489583 %
+The code run for 86 epochs, with 1.672972 epochs/sec
+The code for file LogisticRegression.py ran for 51.4s
